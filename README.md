@@ -2,9 +2,10 @@
 
 [![Davecarter's Github stats](https://github-readme-stats.vercel.app/api?username=davecarter)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [@Tutellus](https://www.tutellus.com/en)
-- 🌱 I’m currently learning Web3 on [Alchemy University](https://university.alchemy.com/overview/ethereum)
-- 📫 How to reach me: [@d4vecarter](https://twitter.com/d4vecarter/) on Twitter
+- 🔭 I’m working at [@Openbank](https://www.openbank.es/)
+- 🌱 I’m currently learning SOLID principles and [Clean Code Fundamentals](https://www.oreilly.com/videos/clean-code-fundamentals/9780134661742/)
+- 🛩️ I'm also learning aeronautics to keep the [Cessna Skyhawk](https://cessna.txtav.com/en/piston/cessna-skyhawk) flying (and landing safely) 😅 
+- 📫 How to reach me: [@d4vecarter](https://x.com/d4vecarter/) on X
 - ⚡ Fun fact: My first hard drive was just 80MB (yes! megabytes) 💾
 
 <!--
